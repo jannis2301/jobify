@@ -1,40 +1,25 @@
-# Jobify
+# **Jobify**
 
-#### Track Your Job Search
+Jobify is an app that allows users to track their job search.
 
-Project in Action - [Jobify](https://www.jobify.live/)
+## Table of Contents
 
-#### Run The App Locally
+- [Project Prompt](#project-prompt)
+- [Technologies](#technologies)
+- [View the App](#view-the-app)
 
-```sh
-npm run install-dependencies
-```
+## Project Prompt
 
-- rename .env.temp to .env
-- setup values for - MONGO_URL, JWT_SECRET, JWT_LIFETIME
+In this project, we have build an application that allows users to track their job search. They can add new jobs, edit and delete them. In addition, a search and sorting function is available as well as a visual graphical representation of the jobs added in the different months.
 
-```sh
-npm start
-```
+## Technologies
 
-- visit url http://localhost:3000/
+- HTML
+- CSS
+- React JS
+- Node JS
+- MongoDB
 
-#### Setup React App
+## View the App
 
-- create <b>client</b> folder
-- open terminal
-
-```sh
-cd client
-```
-
-```sh
-npx create-react-app .
-```
-
-```sh
-npm start
-```
-
-- set editor/browser side by side
-- copy/paste assets from complete project
+-Project in Action - [Jobify](https://jobify-eli3.onrender.com/)
