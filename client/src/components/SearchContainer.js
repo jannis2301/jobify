@@ -26,6 +26,7 @@ const SearchContainer = () => {
   const debounce = () => {
     let timeoutID
     return (e) => {
+      console.log('click')
       setLocalSearch(e.target.value)
       clearTimeout(timeoutID)
       timeoutID = setTimeout(() => {

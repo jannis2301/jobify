@@ -1,7 +1,7 @@
 {
   "name": "jobify",
-  "version": "1.0.0",
-  "description": "#### Track Your Job Search",
+  "version": "0.1.0",
+  "description": "Track Your Job Search",
   "main": "index.js",
   "type": "module",
   "scripts": {

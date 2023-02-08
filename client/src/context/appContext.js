@@ -153,7 +153,7 @@ const AppProvider = ({ children }) => {
     clearAlert()
   }
 
-  const handleChange = ({ value, name }) => {
+  const handleChange = ({ name, value }) => {
     dispatch({ type: HANDLE_CHANGE, payload: { name, value } })
   }
 
