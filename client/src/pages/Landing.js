@@ -20,11 +20,10 @@ const Landing = () => {
               job <span>tracking</span> app
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-              labore dolorum cum blanditiis architecto ducimus pariatur debitis
-              accusamus eum corporis non, inventore deleniti laborum nobis ad
-              iure nisi esse id. Suscipit omnis hic deserunt animi sit odit
-              corporis iure repellat!
+              An application that allows users to track their job search. They
+              can add new jobs, edit and delete them. In addition, a search and
+              sorting function is available as well as a visual graphical
+              representation of the jobs added in the different months.
             </p>
             <Link to="/register" className="btn btn-hero">
               Login/Register
